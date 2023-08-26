@@ -325,10 +325,10 @@ header nav .form i {
 
 /*start services*/
 
-/* .services {
+.services {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-} */
+}
 
 /* @media (min-width: 768px) {
   .service-container {
